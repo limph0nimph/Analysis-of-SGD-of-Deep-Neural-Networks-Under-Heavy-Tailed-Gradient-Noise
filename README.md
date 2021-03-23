@@ -2,4 +2,21 @@
 Skoltech Machine Learning 2021 course project
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna ali-qua. Ut enim ad minim veniam, quis nostrud exercitation ullamcolaboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate
+# Prerequisites
+Gradient history requires large amounts of disk storage. Training a network with 2-4 layers for 5-10 epochs and calculating SG noise statistics may require up to 150Gb of storage and several hours of GPU time.
+
+# Theory
+
+Experiments in this repository are intended to reproduce some of the results provided in papers https://arxiv.org/abs/1901.06053 and https://arxiv.org/abs/1912.00018. Main goals are:
+- to calculate Stochastic Gradient Noise for several deep neural networks
+- to perform an extensive empirical analysis of the tail-index of the SG noise in these networks
+- bring an alternative perspective to the existing approaches for analyzing SGD 
+
+# Experiments
+
+A series of experiments for different neural network architectures and datasets was conducted. 
+### Fully-connected and convolutional neural networks:
+- MNIST notebook
+- CIFAR10 notebook
+### BERT:
+- notebook
