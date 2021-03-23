@@ -8,7 +8,7 @@ Gradient history requires large amounts of disk storage. Training a network with
 # Theory
 
 Experiments in this repository are intended to reproduce some of the results provided in papers https://arxiv.org/abs/1901.06053 and https://arxiv.org/abs/1912.00018. Main goals are:
-- to calculate Stochastic Gradient Noise for several deep neural networks
+- to calculate Stochastic Gradient noise for several deep neural networks
 - to perform an extensive empirical analysis of the tail-index of the SG noise in these networks
 - bring an alternative perspective to the existing approaches for analyzing SGD 
 
@@ -20,3 +20,5 @@ A series of experiments for different neural network architectures and datasets 
 - CIFAR10 notebook
 ### BERT:
 - notebook
+In addition, some statistics for SG noise were calculated in R language due to inner problems of SciPy implementation.
+- R notebook
