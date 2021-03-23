@@ -19,7 +19,7 @@ A series of experiments for different neural network architectures and datasets 
 - MNIST notebook
 - CIFAR10 notebook
 ### BERT:
-- bert_experiments.ipynb
+- 'bert_experiments.ipynb'
 
 ### In addition, some statistics for SG noise were calculated in R language
 Due to inner problems of scipy, part of the work with alpha-stable distributions has been made in R.
