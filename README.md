@@ -20,5 +20,6 @@ A series of experiments for different neural network architectures and datasets 
 - CIFAR10 notebook
 ### BERT:
 - notebook
+
 In addition, some statistics for SG noise were calculated in R language due to inner problems of SciPy implementation.
 - R notebook
