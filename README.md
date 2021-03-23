@@ -15,9 +15,11 @@ Experiments in this repository are intended to reproduce some of the results pro
 # Experiments
 
 A series of experiments for different neural network architectures and datasets was conducted. 
-### Fully-connected and convolutional neural networks:
+### Fully-connected 
 - MNIST notebook
 - CIFAR10 notebook
+### Convolutional neural network:
+
 ### BERT:
 - 'bert_experiments.ipynb'
 
