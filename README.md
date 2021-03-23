@@ -21,5 +21,6 @@ A series of experiments for different neural network architectures and datasets 
 ### BERT:
 - notebook
 
-### In addition, some statistics for SG noise were calculated in R language due to inner problems of SciPy implementation.
+### In addition, some statistics for SG noise were calculated in R language
+Due to inner problems of scipy, part of the work with alpha-stable distributions has been made in R.
 - R notebook
