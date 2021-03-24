@@ -15,16 +15,13 @@ Experiments in this repository are intended to reproduce some of the results pro
 # Experiments
 
 A series of experiments for different neural network architectures and datasets was conducted. 
-### Fully-connected 
-- MNIST notebook
-- CIFAR10 notebook
-### Convolutional neural network:
-
-- CCN_MNIST_batch_50.ipynb
-- CCN_MNIST_batch_sizes_150_200_300.ipynb
-
-### BERT:
-- 'bert_experiments.ipynb'
+## Fully-connected :
+- MNIST notebooks: `ыщь` 
+- CIFAR10 FCN notebook: `FCN_CIFAR_baseline_v2.ipynb`
+## Convolutional neural networks :
+- MNIST notebooks: `experiments on CNNs/CCN_MNIST_batch_sizes_150_200_300.ipynb` and `experiments on CNNs/CCN_MNIST_batch_50.ipynb`
+## BERT:
+- BERT notebook: `bert_experiments.ipynb`
 
 ### In addition, some statistics for SG noise were calculated in R language
 Due to inner problems of scipy, part of the work with alpha-stable distributions has been made in R.
