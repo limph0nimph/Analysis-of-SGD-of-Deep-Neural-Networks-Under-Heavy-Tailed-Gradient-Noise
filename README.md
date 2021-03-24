@@ -20,8 +20,8 @@ A series of experiments for different neural network architectures and datasets 
 - CIFAR10 notebook
 ### Convolutional neural network:
 
-CCN_MNIST_batch_50.ipynb
-CCN_MNIST_batch_sizes_150_200_300.ipynb
+- CCN_MNIST_batch_50.ipynb
+- CCN_MNIST_batch_sizes_150_200_300.ipynb
 
 ### BERT:
 - 'bert_experiments.ipynb'
