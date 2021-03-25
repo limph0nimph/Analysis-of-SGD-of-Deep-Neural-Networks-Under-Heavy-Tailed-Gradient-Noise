@@ -25,7 +25,7 @@ A series of experiments for different neural network architectures and datasets 
 
 ### In addition, some statistics for SG noise were calculated in R language
 Due to inner problems of scipy, part of the work with alpha-stable distributions has been made in R.
-- R notebook
+- R notebook: `experiments on FCNs/SGN_alpha_stable_fit.R`
 
 
 # Results
