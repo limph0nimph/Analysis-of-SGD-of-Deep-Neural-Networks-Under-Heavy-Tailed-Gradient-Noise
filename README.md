@@ -15,9 +15,9 @@ Experiments in this repository are intended to reproduce some of the results pro
 # Experiments
 
 A series of experiments for different neural network architectures and datasets was conducted. 
-## Fully-connected :
-- MNIST notebooks: `ыщь` 
-- CIFAR10 FCN notebook: `FCN_CIFAR_baseline_v2.ipynb`
+## Fully-connected networks:
+- MNIST notebooks: see folder `experiments on FCNs/FCN_data_analysis.ipynb` and `experiments on FCNs/FCN_MNIST_experiment.ipynb`
+- CIFAR notebook: see `experiments on FCNs/FCN_CIFAR_baseline_v2.ipynb` 
 ## Convolutional neural networks :
 - MNIST notebooks: `experiments on CNNs/CCN_MNIST_batch_sizes_150_200_300.ipynb` and `experiments on CNNs/CCN_MNIST_batch_50.ipynb`
 ## BERT:
